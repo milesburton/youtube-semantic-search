@@ -1,4 +1,4 @@
-# YouTube Transcript AI
+# Semantic Search leveraging YouTube
 
 A local AI-powered YouTube transcript processor that:
 - Downloads YouTube transcripts
